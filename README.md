@@ -1,9 +1,5 @@
 # Comms established. Welcome to my profile! 👋
 
-<p>
- <img width="190" align='right' src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg">
- </p>
-
 email: [freevuzak1@gmail.com](mailto::freevuzak1@gmail.com)
 
 My name is Dimitar Vuzev. I'm 21 years old. I am:
