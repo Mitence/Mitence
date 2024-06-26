@@ -23,7 +23,4 @@ Some statements I will leave right here:
 </picture>
 
 
-## Projects & Activity
-
-
 
